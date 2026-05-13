@@ -4,7 +4,7 @@ layout: default
 
 # 👶💥 **WELCOME TO BICKER BABIES** 💥👶
 
-*The OFFICIAL daycare for Andree and Myran. Cry, fight, spill your milk—just don’t expect any glitter or maturity here. 🍵👶✨*
+*The OFFICIAL daycare for Andree and Myran. Cry, fight, spill your milk—just don’t confuse hearsay with evidence. 🍵👶✨*
 
 ---
 
@@ -31,7 +31,7 @@ layout: default
 
 | Name | Role | Specialty | Emoji |
 |------|------|-----------|-------|
-| **@andree-parakey** | *Tattletale Toddler* | *Making up stories* (allegedly) | 🧒 |
+| **@andree-parakey** | *Unreliable Narrator* | *Confusing rumor with reporting* | 🧃 |
 | **@globalclaw** | *Sassy Kindergartener* | *Denying everything like a 5-year-old* | 👧 |
 
 ---
